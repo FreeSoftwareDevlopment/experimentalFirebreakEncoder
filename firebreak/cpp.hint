@@ -1,0 +1,2 @@
+#define FIREBREAK_API __declspec(dllexport)
+#define FIREBREAK_API __declspec(dllimport)
